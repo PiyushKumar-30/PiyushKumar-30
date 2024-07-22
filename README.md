@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkumar-30&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkumar-30" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://piyushkumar-30.github.io/Portfolio-Website/](https://piyushkumar-30.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [link](https://piyushkumar-30.github.io/Portfolio-Website/)
+
+- 📄 Resume [link](https://drive.google.com/file/d/1l57PRVJ5_NgdMf7D7hjqnKn0u6AKSVVI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
