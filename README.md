@@ -5,7 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [link](https://piyushkumar-30.github.io/Portfolio-Website/)
 
-- 📄 Resume [link](https://drive.google.com/file/d/1l57PRVJ5_NgdMf7D7hjqnKn0u6AKSVVI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
